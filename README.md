@@ -1,7 +1,16 @@
+This mod is vibe coded.
+
 # ThighTaniumGambling
 
-Fabric / Minecraft 26.1.2 / Java 25. Current version: **1.0.82+26.1.2**.
+Fabric / Minecraft 26.1.2 and 26.2 / Java 25.
 Install the JAR alongside Fabric API. Neither ThighTanium client is required.
+
+## Download
+
+- [Minecraft 26.1.2](ThighTaniumGambling-26.1.2.jar?raw=true)
+- [Minecraft 26.2](ThighTaniumGambling-26.2.jar?raw=true)
+
+Choose the JAR matching your Minecraft version and place it in your mods folder alongside the matching Fabric API.
 
 ## Automatic slots
 
@@ -56,5 +65,7 @@ The display name and JAR name are ThighTaniumGambling. The internal mod ID stays
 for compatibility, so remove the old Slots JAR before installation. Legacy command aliases still work.
 
 
-1.0.82: Rocket sprites stay upright and rise vertically without sideways drift.
+Rocket sprites stay upright and rise vertically without sideways drift.
+
+
 
