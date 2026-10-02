@@ -3,7 +3,7 @@ This mod is vibe coded.
 # ThighTaniumGambling
 
 Fabric / Minecraft 26.1.2 and 26.2 / Java 25.
-Install the JAR alongside Fabric API. Neither ThighTanium client is required.
+Install the JAR alongside Fabric API.
 
 ## Download
 
@@ -59,13 +59,7 @@ Checks cover loot parsing, aggregation, landing bounds, simulation, single dyes,
 effects and resource resolution. The startup check loads the firework implementation
 without Minecraft bootstrap. Verification does not launch Minecraft.
 
-
-
 The display name and JAR name are ThighTaniumGambling. The internal mod ID stays thightaniumslots
 for compatibility, so remove the old Slots JAR before installation. Legacy command aliases still work.
 
-
 Rocket sprites stay upright and rise vertically without sideways drift.
-
-
-
